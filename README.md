@@ -8,15 +8,6 @@ Welcome to the Stable Diffusion Workshop repository! This project provides pract
 - [Notebook 2] Stable Diffusion Workshop Practical 2
 - [Notebook 3] Stable Diffusion Workshop Practical 3
 
-## 📑 Table of Contents
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Notebook Overviews](#notebook-overviews)
-  - [Notebook 1: Model Building and Fine-Tuning](#notebook-1-stable-diffusion-model-building-and-fine-tuning)
-  - [Notebook 2: Practical 2](#notebook-2-stable-diffusion-workshop-practical-2)
-  - [Notebook 3: Practical 3](#notebook-3-stable-diffusion-workshop-practical-3)
-- [Acknowledgments](#acknowledgments)
 
 ## 🌐 Introduction
 
