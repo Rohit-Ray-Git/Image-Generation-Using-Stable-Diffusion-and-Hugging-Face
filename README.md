@@ -17,7 +17,6 @@ Welcome to the Stable Diffusion Workshop repository! This project provides pract
   - [Notebook 2: Practical 2](#📗-notebook-2-stable-diffusion-workshop-practical-2)
   - [Notebook 3: Practical 3](#📙-notebook-3-stable-diffusion-workshop-practical-3)
 - [Acknowledgments](#🙌-acknowledgments)
-- [License](#license)
 
 ## 🌐 Introduction
 
