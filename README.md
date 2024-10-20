@@ -46,7 +46,7 @@ To run the notebooks, make sure you have the following dependencies:
   - opencv-python
   - torchvision
 
-**Important:** This project requires a high-end GPU for efficient model training and inference. Ensure you have access to a CUDA-enabled device for optimal performance.
+**Important: This project requires a high-end GPU for efficient model training and inference. Ensure you have access to a CUDA-enabled device for optimal performance.**
 
 ## ⚡️ Usage
 
