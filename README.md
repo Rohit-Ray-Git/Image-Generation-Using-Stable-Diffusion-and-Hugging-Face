@@ -9,6 +9,7 @@ Welcome to the Stable Diffusion Workshop repository! This project provides pract
 - [Notebook 3] Stable Diffusion Workshop Practical 3
 
 
+
 ## 🌐 Introduction
 
 Stable Diffusion is a cutting-edge generative model for text-to-image generation, capable of producing highly realistic images from text prompts. This workshop guides users through essential concepts such as:
