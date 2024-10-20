@@ -71,9 +71,3 @@ The third notebook is all about exploring how different configurations of Stable
 - Comparative analysis of model outputs under various conditions.
 - Insights into performance tuning to balance image quality and computation time.
 
-## 🙌 Acknowledgments
-
-A big thank you to the developers of the following open-source libraries that made this workshop possible:
-
-- Hugging Face’s diffusers and transformers libraries 🧑‍💻
-- PyTorch’s powerful GPU-accelerated deep learning tools 🚀
