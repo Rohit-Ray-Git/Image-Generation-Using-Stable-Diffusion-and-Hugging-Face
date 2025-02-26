@@ -1,4 +1,4 @@
-# 🌟 Workshop on Generating Images using Stable Diffusion and Hugging Face
+# 🌟 Image Generation Using Generating Images using Stable Diffusion and Hugging Face
 
 Welcome to the Stable Diffusion Workshop repository! This project provides practical exercises on building, fine-tuning, and experimenting with Stable Diffusion models using Hugging Face’s state-of-the-art libraries. The workshop aims to help you understand the fundamentals of generative models, specifically focusing on text-to-image generation.
 
